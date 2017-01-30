@@ -1,0 +1,5 @@
+D:\Code\Checkout.ShoppingList.Api\Checkout.ShoppingList.Model\bin\Debug\Checkout.ShoppingList.Model.dll
+D:\Code\Checkout.ShoppingList.Api\Checkout.ShoppingList.Model\bin\Debug\Checkout.ShoppingList.Model.pdb
+D:\Code\Checkout.ShoppingList.Api\Checkout.ShoppingList.Model\obj\Debug\Checkout.ShoppingList.Model.csprojResolveAssemblyReference.cache
+D:\Code\Checkout.ShoppingList.Api\Checkout.ShoppingList.Model\obj\Debug\Checkout.ShoppingList.Model.dll
+D:\Code\Checkout.ShoppingList.Api\Checkout.ShoppingList.Model\obj\Debug\Checkout.ShoppingList.Model.pdb
