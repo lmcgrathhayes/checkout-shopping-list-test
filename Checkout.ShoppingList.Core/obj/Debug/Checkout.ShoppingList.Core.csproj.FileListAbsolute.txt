@@ -1,7 +1,0 @@
-D:\Code\Checkout.ShoppingList.Api\Checkout.ShoppingList.Core\bin\Debug\Checkout.ShoppingList.Core.dll
-D:\Code\Checkout.ShoppingList.Api\Checkout.ShoppingList.Core\bin\Debug\Checkout.ShoppingList.Core.pdb
-D:\Code\Checkout.ShoppingList.Api\Checkout.ShoppingList.Core\bin\Debug\Checkout.ShoppingList.Model.dll
-D:\Code\Checkout.ShoppingList.Api\Checkout.ShoppingList.Core\bin\Debug\Checkout.ShoppingList.Model.pdb
-D:\Code\Checkout.ShoppingList.Api\Checkout.ShoppingList.Core\obj\Debug\Checkout.ShoppingList.Core.csprojResolveAssemblyReference.cache
-D:\Code\Checkout.ShoppingList.Api\Checkout.ShoppingList.Core\obj\Debug\Checkout.ShoppingList.Core.dll
-D:\Code\Checkout.ShoppingList.Api\Checkout.ShoppingList.Core\obj\Debug\Checkout.ShoppingList.Core.pdb
