@@ -2,12 +2,12 @@
 *.user
 *.sln.docstates
 *.pdb
-bin/
-debug/
-obj/
+bin
+debug
+obj
 PublishProfiles/
 *.suo
 *.user
 *.dbmdl
 *.nunit
-packages/
+packages
